@@ -15,5 +15,5 @@ var subtractedby = "11";
 console.log(subtractedby);
 var multipliedby = "276";
 console.log(multipliedby);
-var dividedby = "1.91666667";
+var divide dby = "1.91666667";
 console.log(dividedby);
