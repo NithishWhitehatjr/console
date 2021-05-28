@@ -1,4 +1,3 @@
-
 var title = "My first console project";
 console.log(title);
 var first_name = "Nithish";
